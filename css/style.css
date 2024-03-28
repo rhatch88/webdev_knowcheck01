@@ -180,8 +180,8 @@ a:hover, a:active {
     border: 2px solid #333333;
 }
 .hero-content .btn:hover, .hero-content .btn:active {
-    background: #333333;
-    color: #74b44a;
+    background: #74b44a;
+    color: #f1f1f1;
     border: 2px solid #74b44a;
 }
 
@@ -222,6 +222,14 @@ a:hover, a:active {
     text-transform: uppercase;
 }
 
+.contact-container {
+    display: flex;
+    background: #29326a;
+    justify-content: left;
+    color: white;
+    font-size: larger;
+    align-items: center;
+}
 
 .hero-content h1 {
     font-family: 'Roboto Condensed', sans-serif;
